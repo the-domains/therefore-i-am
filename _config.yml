@@ -2,6 +2,7 @@ name: 'Therefore I am '
 favicon: null
 layout_spectrum: 0.7256942884996533
 typography_spectrum: 0.3884576871059835
+title: Clothing
 cta:
   domain: null
   bucket: null
