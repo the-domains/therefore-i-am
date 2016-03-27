@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Therefore I am ]]></title>
-        <description><![CDATA[Therefore I am ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Clothing]]></title>
+        <description><![CDATA[Clothing]]></description>
+        <link>https://thegrid.ai/therefore-i-am/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Mar 2016 04:15:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 27 Mar 2016 04:17:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/therefore-i-am/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined25995159-6fb6-432c-842a-c2f1045bcd96/index.html</link>
+            <description><![CDATA[<p>I think, Therefor I am </p>]]></description>
+            <link>https://thegrid.ai/therefore-i-am/25995159-6fb6-432c-842a-c2f1045bcd96/index.html</link>
             <guid isPermaLink="false">25995159-6fb6-432c-842a-c2f1045bcd96</guid>
-            <pubDate>Sun, 27 Mar 2016 04:15:04 GMT</pubDate>
+            <pubDate>Sun, 27 Mar 2016 04:17:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
