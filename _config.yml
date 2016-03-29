@@ -1,29 +1,18 @@
-name: 'Therefore I am '
-favicon: null
-layout_spectrum: 0.7256942884996533
-typography_spectrum: 0.3884576871059835
-title: Clothing
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#060201'
-    - '#41322b'
-    - '#98999e'
-    - '#d8cec5'
-    - '#686463'
+    - '#80A0C8'
+    - '#005090'
+    - '#7880A0'
+    - '#D81840'
+    - '#E8B0B8'
   brandStrength: 0.875
   lightness: 0.5406449695583433
-  saturation: 0.8612848063930869
   rhythmicContrast: 0.25
+  saturation: 0.8612848063930869
+cta: {}
+layout_spectrum: 0.7256942884996533
+name: 'Therefore I am '
+opengraph: {}
 purpose: []
+typography_spectrum: 0.3884576871059835
